@@ -1,2 +1,2 @@
-# evalucion_AG
-Evaluación del Rendimiento de un Algoritmo Genético según la Configuración de Parámetros en el Problema de la Mochila 0-1
+# Evaluation_AG
+Performance Evaluation of a Genetic Algorithm Based on Parameter Configuration in the 0-1 Knapsack Problem
